@@ -1,0 +1,416 @@
+[
+  {
+    "college_image": "https://i.ibb.co/Z6cX5NH/Academices-college-image.jpg",
+    "college_name": "Academic University",
+    "college_rating": 4.8,
+    "admission_dates": {
+      "fall": "2023-08-15",
+      "spring": "2024-01-10",
+      "summer": "2024-05-05"
+    },
+    "events": [
+      {
+        "event_name": "Orientation Day",
+        "date": "2023-09-01",
+        "location": "Campus Auditorium",
+        "description": "An introduction to college life for new students."
+      },
+      {
+        "event_name": "Career Fair",
+        "date": "2023-10-20",
+        "location": "Student Center",
+        "description": "Opportunity for students to explore career options and network with employers."
+      },
+      {
+        "event_name": "Homecoming Game",
+        "date": "2023-11-15",
+        "location": "College Stadium",
+        "description": "Annual alumni homecoming event and sports game celebration."
+      }
+    ],
+    "research_history": {
+      "founding_year": 1965,
+      "total_publications": 3500,
+      "top_research_areas": ["Engineering", "Medicine", "Social Sciences"],
+      "major_projects": [
+        {
+          "project_title": "Advancing Sustainable Energy Solutions",
+          "lead_researcher": "Dr. Jennifer Adams",
+          "publication_year": 2022,
+          "description": "A groundbreaking research project focusing on renewable energy technologies."
+        },
+        {
+          "project_title": "Understanding Neural Networks",
+          "lead_researcher": "Prof. Michael Lee",
+          "publication_year": 2023,
+          "description": "Research on the functioning and applications of neural networks in AI."
+        }
+      ]
+    },
+    "sports": [
+      {
+        "sport_name": "Basketball",
+        "team_name": "Academic Archers",
+        "season": "2023-2024",
+        "coach": "David Johnson"
+      },
+      {
+        "sport_name": "Soccer",
+        "team_name": "Academic Strikers",
+        "season": "2023-2024",
+        "coach": "Sarah Williams"
+      },
+      {
+        "sport_name": "Swimming",
+        "team_name": "Academic Dolphins",
+        "season": "2023-2024",
+        "coach": "Michael Smith"
+      }
+    ]
+  },
+  {
+    "college_image": "https://i.ibb.co/nBCcmMn/Innovation-Institute-image.jpg",
+    "college_name": "Innovation Institute",
+    "college_rating": 4.9,
+    "admission_dates": {
+      "fall": "2023-09-01",
+      "spring": "2024-01-15",
+      "summer": "2024-05-10"
+    },
+    "events": [
+      {
+        "event_name": "Welcome Week",
+        "date": "2023-09-05",
+        "location": "Campus Commons",
+        "description": "A week of fun activities and workshops for incoming students."
+      },
+      {
+        "event_name": "Tech Expo",
+        "date": "2023-10-25",
+        "location": "Engineering Building",
+        "description": "Showcase of innovative projects and technologies by students and faculty."
+      },
+      {
+        "event_name": "International Day",
+        "date": "2023-11-18",
+        "location": "Student Center",
+        "description": "Celebration of cultural diversity with food, music, and performances."
+      }
+    ],
+    "research_history": {
+      "founding_year": 1970,
+      "total_publications": 5000,
+      "top_research_areas": ["Computer Science", "Biotechnology", "Robotics"],
+      "major_projects": [
+        {
+          "project_title": "AI for Healthcare",
+          "lead_researcher": "Dr. Emily Chen",
+          "publication_year": 2022,
+          "description": "Using AI to improve diagnostics and treatment in healthcare."
+        },
+        {
+          "project_title": "Sustainable Agriculture",
+          "lead_researcher": "Prof. Robert Johnson",
+          "publication_year": 2023,
+          "description": "Research on sustainable farming practices to address food security."
+        }
+      ]
+    },
+    "sports": [
+      {
+        "sport_name": "Football",
+        "team_name": "Innovation Titans",
+        "season": "2023-2024",
+        "coach": "John Anderson"
+      },
+      {
+        "sport_name": "Tennis",
+        "team_name": "Innovation Aces",
+        "season": "2023-2024",
+        "coach": "Maria Martinez"
+      },
+      {
+        "sport_name": "Track and Field",
+        "team_name": "Innovation Rockets",
+        "season": "2023-2024",
+        "coach": "Michael Davis"
+      }
+    ]
+  },
+  {
+    "college_image": "https://i.ibb.co/1sxrWCJ/Scientific-Academy-image.jpg",
+    "college_name": "Scientific Academy",
+    "college_rating": 4.6,
+    "admission_dates": {
+      "fall": "2023-09-15",
+      "spring": "2024-01-20",
+      "summer": "2024-05-15"
+    },
+    "events": [
+      {
+        "event_name": "Science Fair",
+        "date": "2023-10-05",
+        "location": "Science Building",
+        "description": "Students' projects and experiments displayed for public viewing."
+      },
+      {
+        "event_name": "Career Symposium",
+        "date": "2023-11-10",
+        "location": "Lecture Hall",
+        "description": "Industry professionals share insights on career paths in STEM fields."
+      },
+      {
+        "event_name": "International Science Conference",
+        "date": "2024-02-22",
+        "location": "Conference Center",
+        "description": "Gathering of scientists from around the world to present research."
+      }
+    ],
+    "research_history": {
+      "founding_year": 1955,
+      "total_publications": 4500,
+      "top_research_areas": ["Physics", "Chemistry", "Astronomy"],
+      "major_projects": [
+        {
+          "project_title": "Quantum Computing",
+          "lead_researcher": "Dr. Robert Allen",
+          "publication_year": 2022,
+          "description": "Pioneering research in quantum computing and its applications."
+        },
+        {
+          "project_title": "Climate Change Mitigation",
+          "lead_researcher": "Prof. Emily Wilson",
+          "publication_year": 2023,
+          "description": "Efforts to address climate change through innovative solutions."
+        }
+      ]
+    },
+    "sports": [
+      {
+        "sport_name": "Volleyball",
+        "team_name": "Scientific Stars",
+        "season": "2023-2024",
+        "coach": "David Thompson"
+      },
+      {
+        "sport_name": "Badminton",
+        "team_name": "Scientific Racquets",
+        "season": "2023-2024",
+        "coach": "Sarah Lewis"
+      },
+      {
+        "sport_name": "Swimming",
+        "team_name": "Scientific Sharks",
+        "season": "2023-2024",
+        "coach": "Michael Brown"
+      }
+    ]
+  },
+  {
+    "college_image": "https://i.ibb.co/C9Y5bj8/Creative-Arts-Institute-image.jpg",
+    "college_name": "Creative Arts Institute",
+    "college_rating": 4.3,
+    "admission_dates": {
+      "fall": "2023-09-10",
+      "spring": "2024-01-25",
+      "summer": "2024-05-20"
+    },
+    "events": [
+      {
+        "event_name": "Art Exhibition",
+        "date": "2023-10-15",
+        "location": "Art Gallery",
+        "description": "Showcasing the creative works of students and faculty artists."
+      },
+      {
+        "event_name": "Theater Festival",
+        "date": "2023-11-08",
+        "location": "Theater Hall",
+        "description": "Performances of plays and dramas by theater students."
+      },
+      {
+        "event_name": "Music Concert",
+        "date": "2024-02-18",
+        "location": "Music Auditorium",
+        "description": "A musical showcase featuring talented musicians from the college."
+      }
+    ],
+    "research_history": {
+      "founding_year": 1980,
+      "total_publications": 3000,
+      "top_research_areas": ["Fine Arts", "Film Studies", "Design"],
+      "major_projects": [
+        {
+          "project_title": "Digital Animation",
+          "lead_researcher": "Prof. Anna Lee",
+          "publication_year": 2022,
+          "description": "Innovative research in digital animation techniques and applications."
+        },
+        {
+          "project_title": "Art Therapy",
+          "lead_researcher": "Dr. Thomas Roberts",
+          "publication_year": 2023,
+          "description": "Exploring the benefits of art therapy in mental health treatment."
+        }
+      ]
+    },
+    "sports": [
+      {
+        "sport_name": "Dance",
+        "team_name": "Creative Rhythms",
+        "season": "2023-2024",
+        "coach": "Emily Turner"
+      },
+      {
+        "sport_name": "Sculpture",
+        "team_name": "Creative Sculptors",
+        "season": "2023-2024",
+        "coach": "David Carter"
+      },
+      {
+        "sport_name": "Photography",
+        "team_name": "Creative Shutterbugs",
+        "season": "2023-2024",
+        "coach": "Sarah Mitchell"
+      }
+    ]
+  },
+  {
+    "college_image": "https://i.ibb.co/dppPdVg/Business-Institute-image.jpg",
+    "college_name": "Business Institute",
+    "college_rating": 4.7,
+    "admission_dates": {
+      "fall": "2023-08-20",
+      "spring": "2024-01-05",
+      "summer": "2024-05-01"
+    },
+    "events": [
+      {
+        "event_name": "Entrepreneurship Summit",
+        "date": "2023-09-10",
+        "location": "Business School",
+        "description": "A conference for aspiring entrepreneurs to learn and network."
+      },
+      {
+        "event_name": "Marketing Workshop",
+        "date": "2023-10-25",
+        "location": "Lecture Hall",
+        "description": "Practical insights into the latest marketing strategies and trends."
+      },
+      {
+        "event_name": "Finance Forum",
+        "date": "2023-11-18",
+        "location": "Conference Center",
+        "description": "Discussion on financial markets and investment opportunities."
+      }
+    ],
+    "research_history": {
+      "founding_year": 1990,
+      "total_publications": 4000,
+      "top_research_areas": ["Business Administration", "Economics", "Management"],
+      "major_projects": [
+        {
+          "project_title": "Social Media Impact on Consumer Behavior",
+          "lead_researcher": "Dr. Andrew Roberts",
+          "publication_year": 2022,
+          "description": "Examining how social media influences consumer decision-making."
+        },
+        {
+          "project_title": "Sustainable Business Practices",
+          "lead_researcher": "Prof. Linda Thompson",
+          "publication_year": 2023,
+          "description": "Research on implementing sustainable practices in business operations."
+        }
+      ]
+    },
+    "sports": [
+      {
+        "sport_name": "Golf",
+        "team_name": "Business Eagles",
+        "season": "2023-2024",
+        "coach": "John Davis"
+      },
+      {
+        "sport_name": "Cricket",
+        "team_name": "Business Blazers",
+        "season": "2023-2024",
+        "coach": "Sarah Turner"
+      },
+      {
+        "sport_name": "Table Tennis",
+        "team_name": "Business Paddlers",
+        "season": "2023-2024",
+        "coach": "Michael Roberts"
+      }
+    ]
+  },
+  {
+    "college_image": "https://i.ibb.co/0cYDTkM/Medical-College-image.jpg",
+    "college_name": "Medical University",
+    "college_rating": 4.5,
+    "admission_dates": {
+      "fall": "2023-09-05",
+      "spring": "2024-01-15",
+      "summer": "2024-05-10"
+    },
+    "events": [
+      {
+        "event_name": "Medical Symposium",
+        "date": "2023-09-25",
+        "location": "Medical School",
+        "description": "Conference on medical advancements and healthcare research."
+      },
+      {
+        "event_name": "Health Awareness Week",
+        "date": "2023-10-10",
+        "location": "Health Center",
+        "description": "Promoting healthy living through informative sessions and workshops."
+      },
+      {
+        "event_name": "Medical Mission",
+        "date": "2024-02-18",
+        "location": "Community Outreach",
+        "description": "Providing medical assistance to underserved communities."
+      }
+    ],
+    "research_history": {
+      "founding_year": 1975,
+      "total_publications": 6000,
+      "top_research_areas": ["Medicine", "Biomedical Sciences", "Public Health"],
+      "major_projects": [
+        {
+          "project_title": "Cancer Immunotherapy",
+          "lead_researcher": "Dr. Catherine Adams",
+          "publication_year": 2022,
+          "description": "Cutting-edge research on harnessing the immune system to fight cancer."
+        },
+        {
+          "project_title": "Infectious Disease Control",
+          "lead_researcher": "Prof. James Wilson",
+          "publication_year": 2023,
+          "description": "Efforts to combat infectious diseases and improve global health."
+        }
+      ]
+    },
+    "sports": [
+      {
+        "sport_name": "Basketball",
+        "team_name": "Medical Healers",
+        "season": "2023-2024",
+        "coach": "David Miller"
+      },
+      {
+        "sport_name": "Soccer",
+        "team_name": "Medical Strikers",
+        "season": "2023-2024",
+        "coach": "Sarah White"
+      },
+      {
+        "sport_name": "Swimming",
+        "team_name": "Medical Marlins",
+        "season": "2023-2024",
+        "coach": "Michael Johnson"
+      }
+    ]
+  } 
+]

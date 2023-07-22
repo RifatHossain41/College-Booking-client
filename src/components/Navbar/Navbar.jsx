@@ -1,13 +1,14 @@
+import { Link } from "react-router-dom";
 import Container from "../Shared/Container/Container";
 
 const Navbar = () => {
 
   const navOptions = (
     <>
-        <li><a>Home</a></li>
-        <li><a>Colleges</a></li>
-        <li><a>Admission</a></li>
-        <li><a>My College</a></li>
+        <li><Link to="/">Home</Link></li>
+        <li><Link to="/college">Colleges</Link></li>
+        <li><Link>Admission</Link></li>
+        <li><Link>My College</Link></li>
     </>
   )
 
