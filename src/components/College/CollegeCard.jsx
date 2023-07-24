@@ -1,11 +1,12 @@
+import { Link } from "react-router-dom";
 import Container from "../Shared/Container/Container";
 
 
 const CollegeCard = ({college}) => {
-  const {college_image, college_name, college_rating, research_history, admission_dates} = college;
+  const {_id, college_image, college_name, college_rating, research_history, admission_dates} = college;
    return (
     <Container>
-      <div className="mt-22">
+      <div className="mt-24">
       <div className="card bg-base-100 shadow-xl">
         <figure><img className="w-96 h-72" src={college_image}  alt="college" /></figure>
         <div className="card-body">
@@ -14,7 +15,9 @@ const CollegeCard = ({college}) => {
           <p className="text-2xl"><span className="text-2xl font-bold">Admission Date:</span> {admission_dates.fall}</p>
           <p className="text-2xl"><span className="text-2xl font-bold">Research Number:</span> {research_history.total_publications}</p>
           <div className="card-actions justify-center">
-            <button className="btn btn-primary w-full">Details</button>
+            <Link to={`/detailsInformation/${_id}`}>
+              <button className="btn btn-primary w-full">Details</button>
+            </Link>
           </div>
         </div>
       </div>
